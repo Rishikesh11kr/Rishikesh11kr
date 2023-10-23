@@ -1,6 +1,6 @@
 
-<p align="center"> <img src="https://drive.google.com/file/d/1tYaWjjh0AllBpKSGkBd-KfdtnIeMFlsV/view?usp=sharing " /> </p>
-<h1 align="center">Hi 👋, I'm Rishikesh</h1>
+<H1 align="center"> <img src="https://github.com/Rishikesh11kr/Rishikesh11kr/blob/main/Screenshot%202023-10-10%20164701.png " /> </H1>
+<h1 align="center">"Hi 👋, I'm Data Detective & Code Conjurer: Solving Problems with Science and Technology"</h1>
 <h3 align="center">I'm a dual-domain expert, weaving software and data science to unlock potential and create meaningful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikesh&label=Profile%20views&color=0e75b6&style=flat" alt="rishikesh" /> </p>
