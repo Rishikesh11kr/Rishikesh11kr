@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain & Metaverse**
 
-- 🤝 I’m looking for help with **Hologram Chatbot Assistant**
+- 🤝 I’m looking for help with **Chatbot Assistant**
 
 - 💬 Ask me about **Anything**
 
