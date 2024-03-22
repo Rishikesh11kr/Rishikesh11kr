@@ -1,3 +1,97 @@
+<!-- Your HTML structure -->
+<div class="wrapper">
+    <div class="static-txt press-start-2p-regular">I'm a</div>
+    <ul class="dynamic-txts">
+      <li><span class="press-start-2p-regular">DEVELOPER</span></li>
+      <li><span class="press-start-2p-regular">AI/ML Engineer</span></li>
+      <li><span class="press-start-2p-regular">Data Scientist</span></li>
+      <li><span class="press-start-2p-regular">Freelancer</span></li>
+    </ul>
+  </div>
+  
+  <!-- Your CSS styles -->
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+  
+  .press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  /* Your additional CSS styles */
+  .wrapper {
+    *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: #343F4F;
+}
+.wrapper{
+  display: flex;
+}
+.wrapper .static-txt{
+  color: #fff;
+  font-size: 60px;
+  font-weight: 400;
+}
+.wrapper .dynamic-txts{
+  margin-left: 15px;
+  height: 90px;
+  line-height: 90px;
+  overflow: hidden;
+}
+.dynamic-txts li{
+  list-style: none;
+  color: #FC6D6D;
+  font-size: 60px;
+  font-weight: 500;
+  position: relative;
+  top: 0;
+  animation: slide 12s steps(4) infinite;
+}
+@keyframes slide {
+  100%{
+    top: -360px;
+  }
+}
+.dynamic-txts li span{
+  position: relative;
+  margin: 5px 0;
+  line-height: 90px;
+}
+.dynamic-txts li span::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #343F4F;
+  border-left: 2px solid #FC6D6D;
+  animation: typing 3s steps(10) infinite;
+}
+@keyframes typing {
+  40%, 60%{
+    left: calc(100% + 30px);
+  }
+  100%{
+    left: 0;
+  }
+}    /* Add your styles here */
+  }
+  
+  /* Add more styles as needed */
+  </style>
+  
+
+
 
 <H1 align="center"> <img src="https://github.com/Rishikesh11kr/Rishikesh11kr/blob/main/Screenshot%202023-10-10%20164701.png " /> </H1>
 <h1 align="center">"Hi 👋, I'm Data Detective & Code Conjurer: Solving Problems with Science and Technology"</h1>
