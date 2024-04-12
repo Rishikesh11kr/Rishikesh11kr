@@ -152,3 +152,6 @@
 -->
 
 <a href="https://github.com/Rishikesh11kr/snake-animation/actions/workflows/generate-snake.yml"></a>
+<img src="https://raw.githubusercontent.com/Rishikesh11kr/Rishikesh11kr/output/snake.svg" alt="Snake animation" />
+
+###
