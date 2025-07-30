@@ -154,11 +154,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
--->
 
 <a href="https://github.com/Rishikesh11kr/snake-animation/actions/workflows/generate-snake.yml"></a>
 <img src="https://raw.githubusercontent.com/Rishikesh11kr/Rishikesh11kr/output/snake.svg" alt="Snake animation" />
 
+![Snake animation](https://raw.githubusercontent.com/Rishikesh11kr/Rishikesh11kr/output/github-contribution-grid-snake.svg)
+-->
 ![Snake animation](https://raw.githubusercontent.com/Rishikesh11kr/Rishikesh11kr/output/github-contribution-grid-snake.svg)
 
 ###
